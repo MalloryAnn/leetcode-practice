@@ -11,8 +11,14 @@ This contains leetcode practice examples that I completed to polish skills.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/MalloryAnn/leetcode-practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/MalloryAnn/leetcode-practice/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/MalloryAnn/leetcode-practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/MalloryAnn/leetcode-practice/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/MalloryAnn/leetcode-practice/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
