@@ -29,6 +29,7 @@ This contains leetcode practice examples that I completed to polish skills.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/MalloryAnn/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MalloryAnn/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Database
 |  |
@@ -43,4 +44,12 @@ This contains leetcode practice examples that I completed to polish skills.
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/MalloryAnn/leetcode-practice/tree/master/1672-richest-customer-wealth) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MalloryAnn/leetcode-practice/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MalloryAnn/leetcode-practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
