@@ -7,6 +7,7 @@ This contains leetcode practice examples that I completed to polish skills.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MalloryAnn/leetcode-practice/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/MalloryAnn/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MalloryAnn/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/MalloryAnn/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/MalloryAnn/leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
@@ -31,6 +32,7 @@ This contains leetcode practice examples that I completed to polish skills.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MalloryAnn/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/MalloryAnn/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MalloryAnn/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Database
@@ -58,4 +60,8 @@ This contains leetcode practice examples that I completed to polish skills.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MalloryAnn/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/MalloryAnn/leetcode-practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
