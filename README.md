@@ -22,6 +22,7 @@ This contains leetcode practice examples that I completed to polish skills.
 | [0001-two-sum](https://github.com/MalloryAnn/leetcode-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MalloryAnn/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/MalloryAnn/leetcode-practice/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/MalloryAnn/leetcode-practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/MalloryAnn/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MalloryAnn/leetcode-practice/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -37,6 +38,7 @@ This contains leetcode practice examples that I completed to polish skills.
 | [0020-valid-parentheses](https://github.com/MalloryAnn/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/MalloryAnn/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/MalloryAnn/leetcode-practice/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/MalloryAnn/leetcode-practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MalloryAnn/leetcode-practice/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
