@@ -7,6 +7,7 @@ This contains leetcode practice examples that I completed to polish skills.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MalloryAnn/leetcode-practice/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/MalloryAnn/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/MalloryAnn/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MalloryAnn/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MalloryAnn/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -92,6 +93,7 @@ This contains leetcode practice examples that I completed to polish skills.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MalloryAnn/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/MalloryAnn/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/MalloryAnn/leetcode-practice/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
@@ -102,4 +104,8 @@ This contains leetcode practice examples that I completed to polish skills.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/MalloryAnn/leetcode-practice/tree/master/0069-sqrtx) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/MalloryAnn/leetcode-practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
