@@ -62,6 +62,7 @@ This contains leetcode practice examples that I completed to polish skills.
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/MalloryAnn/leetcode-practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MalloryAnn/leetcode-practice/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -78,6 +79,7 @@ This contains leetcode practice examples that I completed to polish skills.
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/MalloryAnn/leetcode-practice/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/MalloryAnn/leetcode-practice/tree/master/0704-binary-search) |
 ## Stack
 |  |
@@ -96,4 +98,8 @@ This contains leetcode practice examples that I completed to polish skills.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/MalloryAnn/leetcode-practice/tree/master/0136-single-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/MalloryAnn/leetcode-practice/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
