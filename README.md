@@ -111,4 +111,12 @@ This contains leetcode practice examples that I completed to polish skills.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MalloryAnn/leetcode-practice/tree/master/0011-container-with-most-water) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/MalloryAnn/leetcode-practice/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/MalloryAnn/leetcode-practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
