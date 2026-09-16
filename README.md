@@ -15,6 +15,7 @@ This contains leetcode practice examples that I completed to polish skills.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MalloryAnn/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/MalloryAnn/leetcode-practice/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/MalloryAnn/leetcode-practice/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/MalloryAnn/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/MalloryAnn/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/MalloryAnn/leetcode-practice/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/MalloryAnn/leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
@@ -59,6 +60,7 @@ This contains leetcode practice examples that I completed to polish skills.
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/MalloryAnn/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/MalloryAnn/leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
