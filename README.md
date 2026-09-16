@@ -11,6 +11,7 @@ This contains leetcode practice examples that I completed to polish skills.
 | [0015-3sum](https://github.com/MalloryAnn/leetcode-practice/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/MalloryAnn/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MalloryAnn/leetcode-practice/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/MalloryAnn/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MalloryAnn/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/MalloryAnn/leetcode-practice/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/MalloryAnn/leetcode-practice/tree/master/0217-contains-duplicate) |
@@ -32,6 +33,7 @@ This contains leetcode practice examples that I completed to polish skills.
 | ------- |
 | [0015-3sum](https://github.com/MalloryAnn/leetcode-practice/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/MalloryAnn/leetcode-practice/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/MalloryAnn/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/MalloryAnn/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MalloryAnn/leetcode-practice/tree/master/0242-valid-anagram) |
 ## String
@@ -97,6 +99,7 @@ This contains leetcode practice examples that I completed to polish skills.
 | ------- |
 | [0011-container-with-most-water](https://github.com/MalloryAnn/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/MalloryAnn/leetcode-practice/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/MalloryAnn/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MalloryAnn/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/MalloryAnn/leetcode-practice/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
