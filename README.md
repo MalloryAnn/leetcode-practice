@@ -9,6 +9,7 @@ This contains leetcode practice examples that I completed to polish skills.
 | [0001-two-sum](https://github.com/MalloryAnn/leetcode-practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/MalloryAnn/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/MalloryAnn/leetcode-practice/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/MalloryAnn/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/MalloryAnn/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MalloryAnn/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/MalloryAnn/leetcode-practice/tree/master/0088-merge-sorted-array) |
@@ -56,6 +57,7 @@ This contains leetcode practice examples that I completed to polish skills.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/MalloryAnn/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MalloryAnn/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/MalloryAnn/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MalloryAnn/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -101,6 +103,7 @@ This contains leetcode practice examples that I completed to polish skills.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MalloryAnn/leetcode-practice/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/MalloryAnn/leetcode-practice/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -110,6 +113,7 @@ This contains leetcode practice examples that I completed to polish skills.
 | ------- |
 | [0011-container-with-most-water](https://github.com/MalloryAnn/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/MalloryAnn/leetcode-practice/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/MalloryAnn/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/MalloryAnn/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MalloryAnn/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/MalloryAnn/leetcode-practice/tree/master/0283-move-zeroes) |
@@ -153,4 +157,8 @@ This contains leetcode practice examples that I completed to polish skills.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MalloryAnn/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/MalloryAnn/leetcode-practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
