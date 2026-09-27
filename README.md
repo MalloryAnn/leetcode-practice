@@ -14,6 +14,7 @@ This contains leetcode practice examples that I completed to polish skills.
 | [0042-trapping-rain-water](https://github.com/MalloryAnn/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/MalloryAnn/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MalloryAnn/leetcode-practice/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/MalloryAnn/leetcode-practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/MalloryAnn/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MalloryAnn/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/MalloryAnn/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
@@ -82,6 +83,7 @@ This contains leetcode practice examples that I completed to polish skills.
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/MalloryAnn/leetcode-practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/MalloryAnn/leetcode-practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MalloryAnn/leetcode-practice/tree/master/0070-climbing-stairs) |
 ## Memoization
