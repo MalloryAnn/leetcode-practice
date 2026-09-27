@@ -9,6 +9,7 @@ This contains leetcode practice examples that I completed to polish skills.
 | [0001-two-sum](https://github.com/MalloryAnn/leetcode-practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/MalloryAnn/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/MalloryAnn/leetcode-practice/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/MalloryAnn/leetcode-practice/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/MalloryAnn/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/MalloryAnn/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MalloryAnn/leetcode-practice/tree/master/0053-maximum-subarray) |
@@ -98,6 +99,7 @@ This contains leetcode practice examples that I completed to polish skills.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/MalloryAnn/leetcode-practice/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/MalloryAnn/leetcode-practice/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/MalloryAnn/leetcode-practice/tree/master/0704-binary-search) |
 ## Stack
