@@ -60,6 +60,7 @@ This contains leetcode practice examples that I completed to polish skills.
 | [0049-group-anagrams](https://github.com/MalloryAnn/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MalloryAnn/leetcode-practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/MalloryAnn/leetcode-practice/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/MalloryAnn/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/MalloryAnn/leetcode-practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MalloryAnn/leetcode-practice/tree/master/0242-valid-anagram) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/MalloryAnn/leetcode-practice/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -130,6 +131,7 @@ This contains leetcode practice examples that I completed to polish skills.
 | [0042-trapping-rain-water](https://github.com/MalloryAnn/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/MalloryAnn/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MalloryAnn/leetcode-practice/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/MalloryAnn/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/MalloryAnn/leetcode-practice/tree/master/0283-move-zeroes) |
 | [2000-reverse-prefix-of-word](https://github.com/MalloryAnn/leetcode-practice/tree/master/2000-reverse-prefix-of-word) |
 ## Bit Manipulation
