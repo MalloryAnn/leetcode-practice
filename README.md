@@ -27,6 +27,7 @@ This contains leetcode practice examples that I completed to polish skills.
 | [0704-binary-search](https://github.com/MalloryAnn/leetcode-practice/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/MalloryAnn/leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/MalloryAnn/leetcode-practice/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/MalloryAnn/leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/MalloryAnn/leetcode-practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Hash Table
 |  |
@@ -177,4 +178,8 @@ This contains leetcode practice examples that I completed to polish skills.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MalloryAnn/leetcode-practice/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/MalloryAnn/leetcode-practice/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
