@@ -40,6 +40,7 @@ This contains leetcode practice examples that I completed to polish skills.
 | [0242-valid-anagram](https://github.com/MalloryAnn/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/MalloryAnn/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/MalloryAnn/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/MalloryAnn/leetcode-practice/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Sorting
 |  |
 | ------- |
@@ -60,6 +61,7 @@ This contains leetcode practice examples that I completed to polish skills.
 | [0125-valid-palindrome](https://github.com/MalloryAnn/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/MalloryAnn/leetcode-practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MalloryAnn/leetcode-practice/tree/master/0242-valid-anagram) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/MalloryAnn/leetcode-practice/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -158,6 +160,7 @@ This contains leetcode practice examples that I completed to polish skills.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MalloryAnn/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/MalloryAnn/leetcode-practice/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/MalloryAnn/leetcode-practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Quickselect
 |  |
