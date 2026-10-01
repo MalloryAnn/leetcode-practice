@@ -62,6 +62,7 @@ This contains leetcode practice examples that I completed to polish skills.
 | [0205-isomorphic-strings](https://github.com/MalloryAnn/leetcode-practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MalloryAnn/leetcode-practice/tree/master/0242-valid-anagram) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/MalloryAnn/leetcode-practice/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [2000-reverse-prefix-of-word](https://github.com/MalloryAnn/leetcode-practice/tree/master/2000-reverse-prefix-of-word) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,6 +115,7 @@ This contains leetcode practice examples that I completed to polish skills.
 | ------- |
 | [0020-valid-parentheses](https://github.com/MalloryAnn/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MalloryAnn/leetcode-practice/tree/master/0042-trapping-rain-water) |
+| [2000-reverse-prefix-of-word](https://github.com/MalloryAnn/leetcode-practice/tree/master/2000-reverse-prefix-of-word) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -128,6 +130,7 @@ This contains leetcode practice examples that I completed to polish skills.
 | [0088-merge-sorted-array](https://github.com/MalloryAnn/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MalloryAnn/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/MalloryAnn/leetcode-practice/tree/master/0283-move-zeroes) |
+| [2000-reverse-prefix-of-word](https://github.com/MalloryAnn/leetcode-practice/tree/master/2000-reverse-prefix-of-word) |
 ## Bit Manipulation
 |  |
 | ------- |
